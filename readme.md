@@ -93,14 +93,6 @@ efektif.
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
-## 📁 Struktur Folder
-```
-├── notebook.ipynb          # notebook analisis lengkap
-├── data/                    # dataset (atau link sumber jika file besar)
-├── images/                  # gambar chart untuk README
-└── README.md
-```
-
 ## 📬 Kontak
 **Eka Puspitasari**
 [LinkedIn](https://www.linkedin.com/in/ekapuspitasari10/) • ekapuspitaaari10@gmail.com
